@@ -44,7 +44,6 @@
     ibus-engines.mozc
     git
 
-    make
     gnupg
     clang
     gcc
@@ -68,6 +67,7 @@
       zsh
       oh-my-zsh
 
+      make
       mise
 
       kdePackages.konsole
