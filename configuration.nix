@@ -45,9 +45,9 @@
     git
 
     # asdf ruby dependencies
-    gnumake
-    zlib
-    gcc
+    # gnumake
+    # zlib
+    # gcc
 
 
     # QT Theme
@@ -64,7 +64,7 @@
       neovim
       lens
       awscli2
-      asdf-vm
+      mise
       gh # github cli
       lazygit
       zsh
