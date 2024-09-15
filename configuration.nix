@@ -44,15 +44,9 @@
     ibus-engines.mozc
     git
 
-    # asdf ruby dependencies
-    # gnumake
-    # zlib
-
-
     # QT Theme
     libsForQt5.qtstyleplugin-kvantum
     libsForQt5.lightly
-
   ];
 
   users.users.vlada = {
@@ -68,7 +62,9 @@
       zsh
       oh-my-zsh
 
+      clang
       gcc
+      gcc-multilib
       mise
 
       kdePackages.konsole
