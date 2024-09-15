@@ -44,12 +44,12 @@
     ibus-engines.mozc
     git
 
-    cmake
-    zlib
     gnupg
-    clang
+
     gcc
-    # gcc-multilib
+    zlib
+    gnumake
+    clang
 
     # QT Theme
     libsForQt5.qtstyleplugin-kvantum
