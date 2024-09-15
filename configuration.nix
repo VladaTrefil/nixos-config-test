@@ -46,7 +46,7 @@
 
     clang
     gcc
-    gcc-multilib
+    # gcc-multilib
 
     # QT Theme
     libsForQt5.qtstyleplugin-kvantum
