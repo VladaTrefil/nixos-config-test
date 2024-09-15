@@ -47,7 +47,6 @@
     # asdf ruby dependencies
     # gnumake
     # zlib
-    # gcc
 
 
     # QT Theme
@@ -64,11 +63,13 @@
       neovim
       lens
       awscli2
-      mise
       gh # github cli
       lazygit
       zsh
       oh-my-zsh
+
+      gcc
+      mise
 
       kdePackages.konsole
       kdePackages.spectacle
