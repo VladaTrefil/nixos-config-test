@@ -44,6 +44,10 @@
     ibus-engines.mozc
     git
 
+    clang
+    gcc
+    gcc-multilib
+
     # QT Theme
     libsForQt5.qtstyleplugin-kvantum
     libsForQt5.lightly
@@ -62,9 +66,6 @@
       zsh
       oh-my-zsh
 
-      clang
-      gcc
-      gcc-multilib
       mise
 
       kdePackages.konsole
