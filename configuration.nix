@@ -44,8 +44,8 @@
     ibus-engines.mozc
     git
 
+    cmake
     zlib
-
     gnupg
     clang
     gcc
