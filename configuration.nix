@@ -44,15 +44,8 @@
     ibus-engines.mozc
     git
 
-    sqlite
-    libpcap
-    postgresql
-    libxml2
-    libxslt
-    pkg-config
-    bundix
+    zlib
 
-    gnumake
     gnupg
     clang
     gcc
