@@ -80,6 +80,8 @@
       qbittorrent-qt5
       yt-dlp
 
+      anki-bin
+
       thunderbird
       telegram-desktop
 
@@ -228,9 +230,6 @@
       plugins = [
         "git"
         "vi-mode"
-        "zsh-users/zsh-autosuggestions"
-        "zdharma/fast-syntax-highlighting"
-        "romkatv/powerlevel10k"
       ];
       theme = "robbyrussell";
     };
