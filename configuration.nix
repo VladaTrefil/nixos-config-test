@@ -44,6 +44,8 @@
     ibus-engines.mozc
     git
 
+    make
+    gnupg
     clang
     gcc
     # gcc-multilib
