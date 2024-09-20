@@ -46,10 +46,9 @@
 
     gnupg
 
-    gcc
-    haskellPackages.digest
-    haskellPackages.zlib
     zlib
+
+    gcc
     gnumake
     clang
 
