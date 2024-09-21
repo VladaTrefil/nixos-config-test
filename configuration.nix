@@ -46,8 +46,6 @@
 
     gnupg
 
-    zlib
-
     # QT Theme
     libsForQt5.qtstyleplugin-kvantum
     libsForQt5.lightly
@@ -65,8 +63,6 @@
       lazygit
       zsh
       oh-my-zsh
-
-      mise
 
       kdePackages.konsole
       kdePackages.spectacle
