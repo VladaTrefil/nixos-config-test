@@ -51,6 +51,7 @@
     gcc
     gnumake
     clang
+    openssl
 
     # QT Theme
     libsForQt5.qtstyleplugin-kvantum
