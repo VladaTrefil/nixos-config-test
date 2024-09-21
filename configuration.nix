@@ -46,11 +46,6 @@
 
     gnupg
 
-    stdenv
-    cmake
-    gcc
-    gnumake
-    clang
     zlib
 
     # QT Theme
