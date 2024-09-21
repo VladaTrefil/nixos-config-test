@@ -46,6 +46,13 @@
 
     gnupg
 
+    zlib
+    openssl
+    readline
+    libyaml
+    libffi
+    asdf-vm
+
     # QT Theme
     libsForQt5.qtstyleplugin-kvantum
     libsForQt5.lightly
@@ -219,6 +226,12 @@
       python = "python3";
       python2 = "python3";
     };
+
+    shellInit = ''
+      export ASDF_DIR=${pkgs.asdf-vm}/share/asdf-vm
+      . $ASDF_DIR/asdf.sh
+    '';
+
     ohMyZsh = {
       enable = true;
       plugins = [
