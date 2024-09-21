@@ -46,12 +46,9 @@
 
     gnupg
 
-    zlib
-
     gcc
     gnumake
     clang
-    openssl
 
     # QT Theme
     libsForQt5.qtstyleplugin-kvantum
@@ -71,6 +68,7 @@
       zsh
       oh-my-zsh
 
+      zlib
       mise
 
       kdePackages.konsole
