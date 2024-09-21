@@ -181,6 +181,13 @@
     pulse.enable = true;
   };
 
+  programs.nix-ld = {
+    enable = true;
+    libraries = with pkgs; [
+      nodejs
+    ];
+  };
+
   # Enable CUPS to print documents.
   services.printing.enable = true;
 
