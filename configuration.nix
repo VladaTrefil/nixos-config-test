@@ -113,8 +113,9 @@
       speedtest-cli
       playerctl
       brightnessctl
+      syncthing
 
-      haskellPackages.mason
+      # haskellPackages.mason
 
       # Sinfin development
       postgresql_12
