@@ -53,6 +53,10 @@
     libffi
     asdf-vm
 
+    nodejs
+    python3
+    lua53Packages.lua
+
     # QT Theme
     libsForQt5.qtstyleplugin-kvantum
     libsForQt5.lightly
@@ -81,25 +85,21 @@
       qbittorrent-qt5
       yt-dlp
 
-      anki-bin
-
-      thunderbird
-      telegram-desktop
-
-      virtualbox
+      # Remove for minimal install
+      # anki-bin
+      # thunderbird
+      # telegram-desktop
+      # virtualbox
       # virtualboxExtpack
-
-      libreoffice-qt
-      krita
-      inkscape
+      # libreoffice-qt
+      # krita
+      # inkscape
 
       strawberry-qt6
       spotify # replace with spotify-qt
       picard
       vlc
       mpv
-
-      python3
 
       bat
       bc
@@ -113,13 +113,8 @@
       speedtest-cli
       playerctl
       brightnessctl
-      readline
 
       haskellPackages.mason
-
-      # python3Full
-      # python312Packages.pip
-      lua53Packages.lua
 
       # Sinfin development
       postgresql_12
